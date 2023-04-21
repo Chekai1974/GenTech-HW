@@ -1,1 +1,1 @@
-# GenTech-HW
+# GenTech- (SQL) (DB) (DBMS)
